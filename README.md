@@ -1,4 +1,4 @@
-# Fluid-Structure Interaction: Turek-Hron FSI1 benchmark simulation using OpenFOAM, CalculiX and preCICE
+# Fluid-Structure Interaction: Turek-Hron FSI benchmarks simulation using OpenFOAM, CalculiX and preCICE
 
 This is a part of our undergraduate project titled 'Aeroelastic modelling of insect flight' carried out in the school of Mechanical sciences, Indian Institute of Technology Goa.
 
